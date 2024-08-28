@@ -1,0 +1,300 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+html,body {
+    position:relative;
+    height:100%;
+}
+
+
+.container {
+    width: 100%;
+    max-width:1400px;
+   
+}
+
+.title-table {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.title-table {
+    h2 {
+        color: #eb2d2d;
+        font-size: 35px;
+        font-weight: bold;
+    }
+}
+
+.wraper-table {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top:130px;
+    justify-content: center;
+}
+
+.numbers {
+    width: 50px;
+    height:378px;
+    border-left: none;
+    text-align: center;
+    border:2px solid #bbb;
+}
+
+.wraper-numbers {
+    margin-top: 53px;
+}
+
+.numbers p {
+    padding: 5px;
+    border: 2px solid #bbb;
+}
+
+table.tabela {
+    width:990px;
+    height:374px;
+    border:2px solid #bbb;
+    
+}
+
+
+.header {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000000;
+   
+}
+
+.header th {
+    width: 200px;
+    height: 50px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#ccc;
+    border: 1px solid #bbb;
+}
+
+.dados1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados1 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#181818;
+    border: 1px solid #bbb;
+}
+
+.dados1 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+
+.dados2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados2 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+
+.dados2 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+.dados3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados3 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados3 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+.dados4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados4 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados4 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+.dados5 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados5 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados5 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+.dados6 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados6 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados6 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+.dados7 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados7 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados7 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+.dados8 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados8 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados8 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+.dados9 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados9 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados9 td div {
+    position: relative;
+    bottom: 6px;
+}
+
+
+.dados10 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dados10 td {
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#383737;
+    border: 1px solid #bbb;
+}
+
+.dados10 td div {
+    position: relative;
+    bottom: 6px;
+}
+
